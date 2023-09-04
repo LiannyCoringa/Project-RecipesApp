@@ -1,9 +1,19 @@
 footer {
+  align-items: center;
   background-color: #41197f;
   display: flex;
+  height: 46px;
   justify-content: space-around;
+  width: 360px;
 }
 
-.footer-icon {
-  width: 50px;
+.footer-icon-meal {
+  height: 30px;
+  width: 40px;
+}
+
+
+.footer-icon-drink {
+  height: 25px;
+  width: 25px;
 }
